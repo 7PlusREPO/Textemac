@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries",A&E FHD
-http://cdnfast.online:80/14041989/14041989/17574.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://cdnfast.online:80/14041989/14041989/17574.ts
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD [H265]" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries",A&E FHD [H265]
 http://cdnfast.online:80/14041989/14041989/113147.ts
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries",A&E HD
