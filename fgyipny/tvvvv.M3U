@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
-http://10.111.200.30/live/feed1001/index.m3u8
+#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 1𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
+http://cdnfast.online:80/14041989/14041989/17574.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1  🇮🇳 💥SD💥 ✅
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ TugasTutoriais0  🇮🇳 💥HD💥 ✅
